@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1+ob%31&2agptv&@cjvnbcr6822qe32duj=yvgo7w&1-mb0%on
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'khe.smart-code.dev', 'www.khe.smart-code.dev']
 
 
 # Application definition
