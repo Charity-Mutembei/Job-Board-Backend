@@ -10,7 +10,7 @@ admin:
 checklist:
 	python manage.py check --deploy
 
-collect:
+static files:
 	python manage.py collectstatic
 
 datadump:
