@@ -9,6 +9,7 @@ django = "*"
 djangorestframework = "*"
 pytz = "*"
 sqlparse = "*"
+whitenoise = "*"
 
 [dev-packages]
 
